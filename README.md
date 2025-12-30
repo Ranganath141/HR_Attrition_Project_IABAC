@@ -1,5 +1,6 @@
 ## PROJECT DIRECTORY STRUCTURE
 
+
 ├── Project Summary <- The top-level summary of the Project
 │ ├── Requirement <- Data from third party sources.
 │ ├── Analysis <- Interpreting Data and summary of various choices from selecting ML algorithm to data processing techniques
