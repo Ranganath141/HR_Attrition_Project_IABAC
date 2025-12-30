@@ -10,7 +10,7 @@ Logistic Regression emerged as the most suitable predictive model due to its str
 
 Based on analytical insights, targeted recommendations were proposed to improve employee performance and retention, including enhancing job satisfaction, promoting work-life balance, adopting department-specific HR strategies, supporting early-career employees, and leveraging predictive insights for proactive intervention. Overall, this project demonstrates how data-driven analysis and machine learning can support informed hiring decisions, improve workforce stability, and strengthen organizational performance.
 
-Analysis of the project (workflow) :
+## Analysis of the project (workflow) :
 
 The objective of this project was to build a predictive model to identify employees at risk of attrition, supporting data-driven hiring and retention decisions. Exploratory Data Analysis (EDA) was conducted to understand data distribution, class imbalance, and relationships between employee attributes and attrition. Correlation analysis indicated that job satisfaction, work-life balance, experience-related features, and compensation factors showed notable association with attrition, guiding feature selection and modeling decisions.
 
