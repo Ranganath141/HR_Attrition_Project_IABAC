@@ -1,0 +1,18 @@
+## Requirements
+
+## Tools and Libraries
+
+- Python
+- Pandas, NumPy for data manipulation
+- Matplotlib, Seaborn for visualization
+- Scikit-learn for preprocessing and modeling
+- XGBoost for experimental gradient boosting
+- Logistic Regression as Base Model
+- Decision Tree and Ensemble models as performance Model
+
+## Methodology Notes
+
+- Logistic Regression was used as the primary predictive model due to its interpretability and effectiveness on imbalanced datasets.
+- Class imbalance was handled using class weighting and threshold tuning.
+- Model evaluation prioritized recall for the minority attrition class based on business impact.
+- Ensemble models were evaluated for comparison but not selected due to lower minority-class recall.
